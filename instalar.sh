@@ -7,7 +7,7 @@ ZABBIX_HOSTNAME="zabbix-server"
 ZABBIX_DOMINIO="ti.agencialoi.com"
 ZABBIX_ALIAS="Dash"
 ZABBIX_DB_USER="zabbix"
-ZABBIX_DB_PASS="L01@2025"
+ZABBIX_DB_PASS=""
 ZABBIX_DB_NAME="zabbix"
 TZ="America/Sao_Paulo"
 
